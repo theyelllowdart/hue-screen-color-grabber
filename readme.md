@@ -1,8 +1,8 @@
 # Hue Screen Color Grabber
-This is a program that grabs the avarage color of a screen. Does not work with DirectX programs.
+This is a program for Philips Hue that grabs the average color of a screen. Does not work with DirectX programs /games.
 
 ## What does it do?
-The program takes a printscreen. Then it calculates the avarage color of the image. After that it sends the color to all the Philips Hue lights. 
+The program takes a printscreen. Then it calculates the average color of the image. After that it sends the color to all the Philips Hue lights. 
 
 ## Usage
 * Download and extract `hue-screen.zip`
