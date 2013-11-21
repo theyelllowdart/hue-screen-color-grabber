@@ -5,7 +5,7 @@ This is a program that grabs the avarage color of a screen. Does not work with D
 The program takes a printscreen. Then it calculates the avarage color of the image. After that it sends the color to all the Philips Hue lights. 
 
 ## Usage
-* Download `hue-screen.jar`
+* Download and extract `hue-screen.zip`
 * Create a file named `config.properties` (see example below)
 * Run `hue-screen.jar`
 
