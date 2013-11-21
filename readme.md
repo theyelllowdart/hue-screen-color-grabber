@@ -1,12 +1,12 @@
 # Hue Screen Color Grabber
-This is a program that fetches the avarage color of a screen. Does not work with DirectX programs.
+This is a program that grabs the avarage color of a screen. Does not work with DirectX programs.
 
 ## What does it do?
-The program takes makes a printscreen. Then it calculates the avarage color of the image and sends the color to the Philips Hue lights. 
+The program takes a printscreen. Then it calculates the avarage color of the image. After that it sends the color to all the Philips Hue lights. 
 
 ## Usage
 * Download `hue-screen.jar`
-* Create a file `config.properties` (see example below)
+* Create a file named `config.properties` (see example below)
 * Run `hue-screen.jar`
 
 ```
