@@ -27,6 +27,7 @@ public class hueScreencolorFetcherClass {
 	static Runnable hueRunnable = new Runnable() {
 		private float[] anArrays;
 
+		@Override
 		public void run() {
 			try {
 
